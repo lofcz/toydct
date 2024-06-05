@@ -1,0 +1,7 @@
+*.cache
+*.info
+.idea
+bin
+obj
+appCfg.json
+.vs
